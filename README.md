@@ -1,6 +1,6 @@
 # NMN
 
-Source code and datasets for ACL 2020 paper: ***Neighborhood Matching Network for Entity Alignment***.
+Source code and datasets for ACL 2020 paper: [***Neighborhood Matching Network for Entity Alignment***](https://arxiv.org/pdf/2005.05607.pdf).
 
 ## Datasets
 
