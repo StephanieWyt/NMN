@@ -6,7 +6,7 @@ Source code and datasets for ACL 2020 paper: [***Neighborhood Matching Network f
 
 > Please first download the datasets [here](https://drive.google.com/drive/folders/1SN3JAV3clMMUPQ0M6LTJQ4GZ8JFLTy0s?usp=sharing) and extract them into `data/` directory.
 
-Initial datasets are from [JAPE](https://github.com/nju-websoft/JAPE) and [BootEA](https://github.com/nju-websoft/BootEA).
+Initial datasets DBP15K and DWY100K are from [JAPE](https://github.com/nju-websoft/JAPE) and [BootEA](https://github.com/nju-websoft/BootEA).
 
 Take the dataset DBP15K (ZH-EN) as an example, the folder "zh_en" contains:
 * ent_ids_1: ids for entities in source KG;
