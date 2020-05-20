@@ -27,9 +27,9 @@ Take the dataset DBP15K (ZH-EN) as an example, the folder "zh_en" contains:
 
 ## Running
 
-For example, to run NMN on S-DBP15K (ZH-EN), use the following script:
+For example, to run NMN on DBP15K (ZH-EN), use the following script:
 ```
-python3 main.py --dataset S-DBP15k --lang zh_en
+python3 main.py --dataset DBP15k --lang zh_en
 ```
 
 
