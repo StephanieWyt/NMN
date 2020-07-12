@@ -25,6 +25,8 @@ Take the dataset DBP15K (ZH-EN) as an example, the folder "zh_en" contains:
 * Scipy
 * Numpy
 
+> Due to the limited graphics memory of GPU, we ran our codes using CPUs (40  Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz).
+
 ## Running
 
 For example, to run NMN on DBP15K (ZH-EN), use the following script:
